@@ -15,7 +15,19 @@
 
 An end-to-end ML-powered decision intelligence platform that analyzes your data, trains predictive models, explains outcomes with SHAP, and delivers actionable AI recommendations — all through a sleek, interactive dashboard.
 
-[🚀 Quick Start](#-quick-start) · [✨ Features](#-features) · [📸 Screenshots](#-screenshots) · [🏗️ Architecture](#%EF%B8%8F-architecture) · [📖 Usage Guide](#-usage-guide)
+[🚀 Quick Start](#-quick-start) · [✨ Features](#-features) · [📸 Screenshots](#-screenshots) · [�️ Architecture](#%EF%B8%8F-architecture) · [📖 Usage Guide](#-usage-guide)
+
+</div>
+
+---
+
+<div align="center">
+
+> ## �🌐 **[✨ Try the Live Demo ✨](https://ai-personal-decision-intelligence-system-p3vjhnd9vappnyyteqv3t.streamlit.app/)**
+>
+> **🚀 No installation needed — click above to explore the app instantly!**
+>
+> [![Live App](https://img.shields.io/badge/▶_OPEN_LIVE_APP-Click_Here-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-personal-decision-intelligence-system-p3vjhnd9vappnyyteqv3t.streamlit.app/)
 
 </div>
 
